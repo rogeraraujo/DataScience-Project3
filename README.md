@@ -10,4 +10,5 @@ The techniques and strategies used for solving both tasks should be explained in
 The Jupyter notebooks contaning the requested maps are available in this repository. The Youtube videos are available in the following URLs:
 
 Task 3.1: https://www.youtube.com/watch?v=3Cf_WsKh9bc
+
 Task 3.2.1: https://www.youtube.com/watch?v=egmyv3YmVzI
