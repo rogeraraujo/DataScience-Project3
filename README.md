@@ -7,7 +7,7 @@ This task has the following goals:
 
 The techniques and strategies used for solving both tasks should be explained in Youtube videos, and each task should have its own video.
 
-The Jupyter notebooks contaning the requested maps are available in this repository. The Youtube videos are available in the following URLs:
+The Jupyter notebooks containing the requested maps are available in this repository. The Youtube videos are available in the following URLs:
 
 Task 3.1: https://www.youtube.com/watch?v=3Cf_WsKh9bc
 
