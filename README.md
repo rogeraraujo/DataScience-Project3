@@ -16,5 +16,7 @@ Task 3.2.1: https://www.youtube.com/watch?v=egmyv3YmVzI
 Team members
 ============
 Carlos Eduardo Santos
+
 Hilário José
+
 Roger Araújo
