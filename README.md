@@ -12,3 +12,9 @@ The Jupyter notebooks containing the requested maps are available in this reposi
 Task 3.1: https://www.youtube.com/watch?v=3Cf_WsKh9bc
 
 Task 3.2.1: https://www.youtube.com/watch?v=egmyv3YmVzI
+
+Team members
+============
+Carlos Eduardo Santos
+Hilário José
+Roger Araújo
